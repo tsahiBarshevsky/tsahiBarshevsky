@@ -11,7 +11,7 @@
 - 🌐 &nbsp; HTML • CSS • JavaScript
 - 🛠 &nbsp; Visual Studio • VS Code • Android Sutdio • IntelliJ • PyCharm • Photoshop
 
-<h3> 🤝🏻 Lets stay in touch? </h3>
+<h3> 🤝🏻 Let's stay in touch? </h3>
 
 - 🔗 &nbsp; <a href="https://www.linkedin.com/in/tsahi-barshavsky-software-developer/">My Linkedin</a>
 - 📧 &nbsp; <a href="mailto:tsahi.13@gmail.com">Send me an email</a>
