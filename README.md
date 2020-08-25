@@ -1,5 +1,5 @@
 <h2>Hey, I'm Tsahi Barshavsky! 👋🏼</h2>
-<hr>
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Bachelor in Computer Science from Holon Institute of Technology (HIT).
