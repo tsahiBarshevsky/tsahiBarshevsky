@@ -8,7 +8,7 @@
 <h3>💪🏼 My skills</h3>
 
 - 💻 &nbsp; C • C++ • Java • Python • XML
-- 🌐 &nbsp; HTML • CSS • JavaScript
+- 🌐 &nbsp; HTML • CSS • JavaScript • Bootstrap
 - 🛠 &nbsp; Visual Studio • VS Code • Android Sutdio • IntelliJ • PyCharm • Photoshop
 
 <h3> 🤝🏻 Let's stay in touch? </h3>
