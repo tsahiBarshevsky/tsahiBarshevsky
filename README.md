@@ -13,7 +13,7 @@
 
 <h3> 🤝🏻 Let's stay in touch? </h3>
 
-- 🔗 &nbsp; <a href="https://www.linkedin.com/in/tsahi-barshavsky-software-developer/">My Linkedin</a>
+- <span class="iconify" data-icon="entypo-social:linkedin-with-circle" data-inline="false"></span> &nbsp; <a href="https://www.linkedin.com/in/tsahi-barshavsky-software-developer/">My Linkedin</a>
 - 📧 &nbsp; <a href="mailto:tsahi.13@gmail.com">Send me an email</a>
 
 
