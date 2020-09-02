@@ -1,5 +1,3 @@
-<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
-
 <h2>Hey, I'm Tsahi Barshavsky! 👋🏼</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -15,7 +13,7 @@
 
 <h3> 🤝🏻 Let's stay in touch? </h3>
 
-- <span class="iconify" data-icon="entypo-social:linkedin-with-circle" data-inline="false"></span> &nbsp; <a href="https://www.linkedin.com/in/tsahi-barshavsky-software-developer/">My Linkedin</a>
+- ✔ &nbsp; <a href="https://www.linkedin.com/in/tsahi-barshavsky-software-developer/">My Linkedin</a>
 - 📧 &nbsp; <a href="mailto:tsahi.13@gmail.com">Send me an email</a>
 
 
