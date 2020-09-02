@@ -1,3 +1,5 @@
+<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+
 <h2>Hey, I'm Tsahi Barshavsky! 👋🏼</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
