@@ -11,10 +11,17 @@
 - 🌐 &nbsp; HTML • CSS • JavaScript • Bootstrap
 - 🛠 &nbsp; Visual Studio • VS Code • Android Sutdio • IntelliJ • PyCharm • Photoshop
 
+<h3>💻 Step by to my site! </h3>
+<p align="center">
+<a href="https://tsahibarshevsky.github.io/Tsahis-Website/" target="_blank"><img src="https://github.com/tsahiBarshevsky/Tsahis-Website/blob/master/Images/quick-look.PNG"></img></a>
+</p>
+
 <h3> 🤝🏻 Let's stay in touch? </h3>
 
 - ✔ &nbsp; <a href="https://www.linkedin.com/in/tsahi-barshavsky-software-developer/">My Linkedin</a>
 - 📧 &nbsp; <a href="mailto:tsahi.13@gmail.com">Send me an email</a>
+
+
 
 
 <!--
