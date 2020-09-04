@@ -13,7 +13,7 @@
 
 <h3>💻 Step by to my site! </h3>
 <p align="center">
-<a href="https://tsahibarshevsky.github.io/Tsahis-Website/" target="_blank"><img src="https://github.com/tsahiBarshevsky/Tsahis-Website/blob/master/Images/quick-look.PNG" style="width: 1000px; height: 500px;"></img></a>
+<a href="https://tsahibarshevsky.github.io/Tsahis-Website/" target="_blank"><img src="https://github.com/tsahiBarshevsky/Tsahis-Website/blob/master/Images/quick-look.PNG" style="width: 1px; height: 1px;"></img></a>
 </p>
 
 <h3> 🤝🏻 Let's stay in touch? </h3>
