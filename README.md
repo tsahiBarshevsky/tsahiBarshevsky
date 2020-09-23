@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Bachelor in Computer Science from Holon Institute of Technology (HIT).
-- 📚 &nbsp; Currently learning more about Frontend Web Development.
+- 📚 &nbsp; Currently learning more about Responsive Web Design.
 
 <h3>💪🏼 My skills</h3>
 
@@ -13,7 +13,7 @@
 
 <h3>💻 Visit my site! </h3>
 <p align="center">
-<a href="https://tsahibarshevsky.github.io/Tsahis-Website/" target="_blank"><img src="https://github.com/tsahiBarshevsky/Tsahis-Website/blob/master/Images/quick-look.PNG" width="1000"></a>
+<a href="https://tsahibarshevsky.github.io/Tsahis-Website/" target="_blank"><img src="https://github.com/tsahiBarshevsky/Tsahis-Website/blob/master/Images/quick-look.PNG" width="500"></a>
 </p>
 
 <h3> 🤝🏻 Let's stay in touch? </h3>
