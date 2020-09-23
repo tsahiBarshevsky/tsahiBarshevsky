@@ -12,8 +12,8 @@
 - 🛠 &nbsp; Visual Studio • VS Code • Android Sutdio • IntelliJ • PyCharm • Photoshop
 
 <h3>💻 Visit my site! </h3>
-<p align="center">
-<a href="https://tsahibarshevsky.github.io/Tsahis-Website/" target="_blank"><img align="center" src="https://github.com/tsahiBarshevsky/Tsahis-Website/blob/master/Images/quick-look.PNG" width="800"></a>
+<p>
+<a href="https://tsahibarshevsky.github.io/Tsahis-Website/" target="_blank"><img src="https://github.com/tsahiBarshevsky/Tsahis-Website/blob/master/Images/quick-look.PNG" width="800"></a>
 </p>
 
 <h3> 🤝🏻 Let's stay in touch? </h3>
