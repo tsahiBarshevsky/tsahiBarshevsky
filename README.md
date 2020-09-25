@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🇮🇱 &nbsp; Based in Israel.
+- 🌏 &nbsp; Based in Israel.
 - 🎓 &nbsp; Bachelor in Computer Science from Holon Institute of Technology (HIT).
 - 📚 &nbsp; Currently learning more about Web Develpoment and Responsive Web Design.
 
