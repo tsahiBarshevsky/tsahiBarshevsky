@@ -14,7 +14,7 @@
 
 <h3>💻 Visit my site! </h3>
 <p>
-<a href="https://tsahibarshevsky.github.io/Tsahis-Website/" target="_blank"><img src="https://github.com/tsahiBarshevsky/Tsahis-Website/blob/master/Images/quick-look.PNG" width="800"></a>
+<a href="https://tsahis-website.herokuapp.com/" target="_blank"><img src="https://github.com/tsahiBarshevsky/tsahis-website-react/blob/master/tsahis-website/src/Images/quick-look.png" width="800"></a>
 </p>
 
 <h3> 🤝🏻 Let's stay in touch? </h3>
