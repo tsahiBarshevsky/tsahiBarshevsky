@@ -14,4 +14,5 @@
 
 ### 💻 My recent projects 💻
 1. [Personal website](https://tsahis-website.herokuapp.com/): Portfolio using React and Material-UI ([repository and more details](https://github.com/tsahiBarshevsky/tsahis-website-react)).
-1.
+1. [The Road To The Degree](https://the-road-to-the-degree.herokuapp.com/): a Website which unifying study materials of first degree in Computer Science ([repository and more details](https://github.com/tsahiBarshevsky/CS-study-materials)).
+1. Search Without Spoilers: Telegram bot which searching information about series and movies ([repository and more details](https://github.com/tsahiBarshevsky/Search-Without-Spoilers-Bot)).
