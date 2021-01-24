@@ -13,10 +13,14 @@
 * Workspaces: Visual Studio, VS Code, Android Sutdio, Intellij, Pycharm, Photoshop
 
 ### 💻 My recent projects:
-1. [Personal website](https://tsahis-website.herokuapp.com/): Portfolio using React and Material-UI ([repository and more details](https://github.com/tsahiBarshevsky/tsahis-website-react)).
-1. [The Road To The Degree](https://the-road-to-the-degree.herokuapp.com/): a Website for study materials of first degree in Computer Science ([repository and more details](https://github.com/tsahiBarshevsky/CS-study-materials)).
-1. Search Without Spoilers: Telegram bot which searching information about series and movies ([repository and more details](https://github.com/tsahiBarshevsky/Search-Without-Spoilers-Bot)).
-1. [Spin and Learn](https://play.google.com/store/apps/details?id=tsahi.and.kostia.spinandlearn): Educational mind game based on the Wheel of Fortune for Android devices ([repository and more details](https://github.com/tsahiBarshevsky/Spin-and-learn)).
+
+| Project Name              | Project Description           | Links  |
+| ------------------------- |-----------------------------| ------|
+| [Portfolio Plus](https://portfolio-plus.netlify.app/)            | Web app that allows to create a designed landing page with all of your personal projects. Created with React, Material-UI and Styled-Components             | [Repository](https://github.com/tsahiBarshevsky/Portfolio-Plus)  |
+| [Personal website](https://tsahis-website.herokuapp.com/)          | Portfolio created with React, Material-UI and Styled-Components                                                          |   [Repository](https://github.com/tsahiBarshevsky/tsahis-website-react) |
+| [The Road To The Degree](https://the-road-to-the-degree.herokuapp.com/)    | A website for study materials of first degree in Computer Science. Created with React, Material-UI and Styled-Components | [Repository](https://github.com/tsahiBarshevsky/CS-study-materials)  |
+| Search Without Spoliers   | Telegram bot which searching information about series and movies. Created with Python. | [Repository](https://github.com/tsahiBarshevsky/Search-Without-Spoilers-Bot)
+| [Spin and Learn](https://play.google.com/store/apps/details?id=tsahi.and.kostia.spinandlearn)            | Educational mind game based on the Wheel of Fortune for Android devices. Created with Java and XML. | [Repository](https://github.com/tsahiBarshevsky/Spin-and-learn)
 
 ### 🤝🏼 Let's stay in touch: 
 
