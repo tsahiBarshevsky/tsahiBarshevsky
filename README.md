@@ -1,6 +1,6 @@
 ![](https://github.com/tsahiBarshevsky/tsahiBarshevsky/blob/master/Images/top.svg)
 
-### I'm 27 years old from in Israel, Computer Science graduate, love creating new things and build responsive websites
+## **I'm 27 years old from in Israel, Frontend developer, Computer Science graduate, love creating new things and build responsive websites**
 
 ### ⚡ Here are some details about me:
 * I'm Bachelor in Computer Science from Holon Institute of Technology (HIT).
@@ -8,9 +8,12 @@
 * Besides programming, I also love designing with Adobe Photoshop or Adobe XD.
 
 ### 💪🏼 My skills:
-* Programming languages: HTML5, CSS3, Javascript, Java, Python, C, C++.
-* Tools: React, Material-UI, Bootstrap4, NodeJS, Express.js, MongoDB.
-* Workspaces: Visual Studio, VS Code, Android Sutdio, Intellij, Pycharm, Photoshop
+*	**Web Technologies**: HTML5, CSS3, JavaScript.
+* **Frameworks and Libraries**: ReactJS, Material-UI, Bootstrap4
+* **Servers and Databases**: NodeJS, ExpressJS, MongoDB, MySQL.
+* **Programming Languages**: C, C++, Java, Python, XML.
+* **IDE**: Visual Studio, Visual Studio Code, PyCharm, IntelliJ, Android Studio.
+* **Other tools**: Adobe Photoshop, Adobe XD.
 
 ### 💻 My recent projects:
 
@@ -24,9 +27,10 @@
 
 ### 🤝🏼 Let's stay in touch: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;[![linkedin](https://github.com/tsahiBarshevsky/tsahiBarshevsky/blob/master/Images/linkedin.png)](https://www.linkedin.com/in/tsahi-barshavsky-frontend-developer/) &nbsp;&nbsp; [![facebook](https://github.com/tsahiBarshevsky/tsahiBarshevsky/blob/master/Images/facebook.png)](https://www.facebook.com/tsahi.barshavsky/) &nbsp;&nbsp;
-[![gmail](https://github.com/tsahiBarshevsky/tsahiBarshevsky/blob/master/Images/gmail.png)](mailto:tsahi.13@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/tsahi-barshavsky-frontend-developer/" target="_blank"><img src="https://github.com/tsahiBarshevsky/tsahiBarshevsky/blob/master/Images/linkedin-icon.svg" width="30" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/tsahi.barshavsky/" target="_blank"><img src="https://github.com/tsahiBarshevsky/tsahiBarshevsky/blob/master/Images/facebook.svg" width="30" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:tsahi.13@gmail.com" target="_blank"><img src="https://github.com/tsahiBarshevsky/tsahiBarshevsky/blob/master/Images/google-gmail.svg" width="40" /></a>
+
+
 
 ### 👏🏼 Credits:
 1. Vector has taken from [Freepik](https://www.freepik.com/free-vector/programming-concept-illustration_7118756.htm#page=1&query=programming&position=12).
-1. Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com/).
+1. Icons has taken from [Iconify](https://iconify.design/).
