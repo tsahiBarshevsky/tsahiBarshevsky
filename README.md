@@ -10,7 +10,7 @@
 ### 💪🏼 My skills:
 *	**Web Technologies**: HTML5, CSS3, JavaScript.
 * **Frameworks and Libraries**: ReactJS, Material-UI, Bootstrap4
-* **Servers and Databases**: NodeJS, ExpressJS, MongoDB, MySQL.
+* **Servers and Databases**: NodeJS, ExpressJS, Firebase, Cloud Firestore, MongoDB, MySQL.
 * **Programming Languages**: C, C++, Java, Python, XML.
 * **IDE**: Visual Studio, Visual Studio Code, PyCharm, IntelliJ, Android Studio.
 * **Other tools**: Adobe Photoshop, Adobe XD.
