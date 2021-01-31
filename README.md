@@ -1,6 +1,6 @@
 ![](https://github.com/tsahiBarshevsky/tsahiBarshevsky/blob/master/Images/top.svg)
 
-## **I'm 27 years old from in Israel, Frontend developer, Computer Science graduate, love creating new things and build responsive websites**
+## **I'm 27 years old from in Israel, Frontend developer, Computer Science graduate, passionate about technology, love creating new things and build modern web applications**
 
 ### ⚡ Here are some details about me:
 * I'm Bachelor in Computer Science from Holon Institute of Technology (HIT).
@@ -22,7 +22,7 @@
 | [Portfolio Plus](https://portfolio-plus.netlify.app/)            | Web app that allows to create a designed landing page with all of your personal projects. Created with React, Material-UI, Styled-Components and Firebase             | [Repository](https://github.com/tsahiBarshevsky/Portfolio-Plus)  |
 | [Personal website](https://tsahis-website.netlify.app/)          | Portfolio created with React, Material-UI, Styled-Components and Firebase                                                      |   [Repository](https://github.com/tsahiBarshevsky/tsahis-website) |
 | [The Road To The Degree](https://the-road-to-the-degree.herokuapp.com/)    | A website for study materials of first degree in Computer Science. Created with React, Material-UI and Styled-Components | [Repository](https://github.com/tsahiBarshevsky/CS-study-materials)  |
-| Search Without Spoliers   | Telegram bot which searching for series and movies realse date and other information like cast and rating. Created with Python. | [Repository](https://github.com/tsahiBarshevsky/Search-Without-Spoilers-Bot)
+| Search Without Spoilers   | Telegram bot which searching for series and movies realse date and other information like cast and rating. Created with Python. | [Repository](https://github.com/tsahiBarshevsky/Search-Without-Spoilers-Bot)
 | Spin and Learn  | Educational mind game based on the Wheel of Fortune for Android devices. Created with Java and XML. | [Repository](https://github.com/tsahiBarshevsky/Spin-and-learn) [Play store](https://play.google.com/store/apps/details?id=tsahi.and.kostia.spinandlearn)
 
 ### 🤝🏼 Let's stay in touch: 
