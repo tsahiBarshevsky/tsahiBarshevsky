@@ -19,6 +19,7 @@
 
 | Project Name              | Project Description           | Links  |
 | ------------------------- |-----------------------------| ------|
+| [Personal Blog](https://the-man-and-the-written-word.netlify.app/) |  My personal blog called "The Man and the Written Word". Built with React, Firebase and designed by me using Material-UI and SCSS | [Repository](https://github.com/tsahiBarshevsky/personal-blog)
 | [Portfolio Plus](https://portfolio-plus.netlify.app/)            | Web app that allows to create a designed landing page with all of your personal projects. Created with React, Material-UI, Styled-Components and Firebase             | [Repository](https://github.com/tsahiBarshevsky/Portfolio-Plus)  |
 | [Personal website](https://tsahis-website.netlify.app/)          | Portfolio created with React, Material-UI, Styled-Components and Firebase                                                      |   [Repository](https://github.com/tsahiBarshevsky/tsahis-website) |
 | [The Road To The Degree](https://the-road-to-the-degree.herokuapp.com/)    | A website for study materials of first degree in Computer Science. Created with React, Material-UI and Styled-Components | [Repository](https://github.com/tsahiBarshevsky/CS-study-materials)  |
