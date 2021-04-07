@@ -8,8 +8,8 @@
 * Besides programming, I also love designing with Adobe Photoshop or Adobe XD.
 
 ### 💪🏼 My skills:
-*	**Web Technologies**: HTML5, CSS3, JavaScript.
-* **Frameworks and Libraries**: ReactJS, Material-UI, Bootstrap4
+*	**Web Technologies**: HTML5, CSS3, SCSS/SASS, JavaScript.
+* **Frameworks and Libraries**: ReactJS, Material-UI, Bootstrap4.
 * **Servers and Databases**: NodeJS, ExpressJS, Firebase, Cloud Firestore, MongoDB, MySQL.
 * **Programming Languages**: C, C++, Java, Python, XML.
 * **IDE**: Visual Studio, Visual Studio Code, PyCharm, IntelliJ, Android Studio.
