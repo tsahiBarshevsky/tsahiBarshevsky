@@ -18,6 +18,7 @@
 ### 💻 My recent projects:
 
 | Project Name              | Project Description           | Links  |
+| [Save The Date](https://save-the-date45.netlify.app/) | A website to manage a list of drugs. It calculates the date it should be thrown | [Repository](https://github.com/tsahiBarshevsky/save-the-date)
 | ------------------------- |-----------------------------| ------|
 | [Personal Blog](https://the-man-and-the-written-word.netlify.app/) |  My personal blog called "The Man and the Written Word". Built with React, Firebase and designed by me using Material-UI and SCSS | [Repository](https://github.com/tsahiBarshevsky/personal-blog)
 | [Portfolio Plus](https://portfolio-plus.netlify.app/)            | Web app that allows to create a designed landing page with all of your personal projects. Created with React, Material-UI, Styled-Components and Firebase             | [Repository](https://github.com/tsahiBarshevsky/Portfolio-Plus)  |
