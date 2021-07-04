@@ -19,6 +19,7 @@
 
 | Project Name              | Project Description           | Links  |
 | ------------------------- |-----------------------------| ------|
+| [Phone Zone](https://phone-zone1.netlify.app/) | A modern and fully responsive online e-commerce store, inspired by some real online stores and allows you to "order" smartphones and mobile accessories. | [Repository](https://github.com/tsahiBarshevsky/phone-zone)
 | [Scratch a Quote](https://scratch-a-quote.netlify.app/) | A random motivation quotes generator, with a small twist | [Repository](https://github.com/tsahiBarshevsky/scratch-a-quote)
 | [Get a Card](https://get-a-card.netlify.app/) | A website that allows you to create a designed digital business cards | [Repository](https://github.com/tsahiBarshevsky/get-a-card)
 | [Save The Date](https://save-the-date45.netlify.app/) | A website to manage a list of drugs. It'll calculates the date it should be thrown | [Repository](https://github.com/tsahiBarshevsky/save-the-date)
