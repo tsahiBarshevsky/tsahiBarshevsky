@@ -12,9 +12,11 @@
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -31,6 +33,7 @@
 
 | Project Name | Project Description | Stars | Links |
 | ------------ | ------------------- | ----- | ----- |
+| [Jobi](https://github.com/tsahiBarshevsky/jobi) | A job tracker | ![](https://img.shields.io/github/stars/tsahiBarshevsky/jobi.svg) | [Website link](https://jobi.netlify.app/) |
 | [Phone Zone](https://github.com/tsahiBarshevsky/phone-zone) | A modern and fully responsive online e-commerce store | ![](https://img.shields.io/github/stars/tsahiBarshevsky/phone-zone.svg) | [Website link](https://phone-zone1.netlify.app/) |
 | [Get a Card](https://github.com/tsahiBarshevsky/get-a-card) | Online business cards generator | ![](https://img.shields.io/github/stars/tsahiBarshevsky/get-a-card.svg) | [Webeite link](https://get-a-card.netlify.app/) |
 | [Save The Date](https://github.com/tsahiBarshevsky/save-the-date) | Online medicines management, calculataing the date a medicine should be thrown | ![](https://img.shields.io/github/stars/tsahiBarshevsky/save-the-date.svg) | [Website link](https://save-the-date45.netlify.app/) |
