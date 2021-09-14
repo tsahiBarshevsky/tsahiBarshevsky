@@ -1,6 +1,6 @@
 # _Hey, nice to see you here!_ 😎
 
-### My name is Tsahi Barshavsky, a Web Frontend Developer, Computer Science graduated and based in Bat Yam, Israel <img src="https://hatscripts.github.io/circle-flags/flags/il.svg" width="18">
+### My nams is Tsahi Barshavsky and I'm a Frontend Web Developer who loves creating new web applications and landing pages from scratch: Starting from characterization, drawing a sketch, picking a color palette and of course, coding all parts together. You can see more about me in [my website](https://tsahis-website.netlify.app/).
 
 
 ### 👩🏻‍💻 Things I'm coding with:
@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### 💻 Another things I'm using:
+### 💻 Other things I'm using:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
@@ -56,7 +56,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsahi.13@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsahi-barshavsky-frontend-developer/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tsahi.barshavsky/)
-[![Website](https://img.shields.io/badge/-My%20Website-informational)](https://tsahis-website.netlify.app/)
 
 
 ### 📈 Github Statistics
