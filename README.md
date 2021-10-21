@@ -3,43 +3,47 @@
 ### My nams is Tsahi Barshavsky and I'm a Frontend Web Developer who loves creating new web applications and landing pages from scratch: Starting from characterization, drawing a sketch, picking a color palette and of course, coding all parts together. You can see more about me in [my website](https://tsahis-website.netlify.app/).
 
 
-### 👩🏻‍💻 Things I'm coding with:
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=whit)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 👩🏻‍💻 Things I like to work with:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=whit)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Sttled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### 💻 Other things I'm using:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🌟 Top Projects:
 
 | Project Name | Project Description | Stars | Links |
 | ------------ | ------------------- | ----- | ----- |
+| Save The Date | Medicines management native app with a main feature: Calculating the date it should be thrown | ![](https://img.shields.io/github/stars/tsahiBarshevsky/save-the-date-app.svg) | <ul><li>[Server repository](https://github.com/tsahiBarshevsky/save-the-date-server)</li><li>[Client repository](https://github.com/tsahiBarshevsky/save-the-date-app)</li><li>[APK and IOS simulator files](https://drive.google.com/drive/folders/1mf-KnPfsnroWlUucACkVYsoIdicOMLuZ)</li></ul> |
+| [Note To Self](https://github.com/tsahiBarshevsky/note-to-self) | A basic todo app using React Native, as a first practice with React Native | ![](https://img.shields.io/github/stars/tsahiBarshevsky/note-to-self.svg) | 
 | [Jobi](https://github.com/tsahiBarshevsky/jobi) | A job tracker | ![](https://img.shields.io/github/stars/tsahiBarshevsky/jobi.svg) | [Website link](https://jobi.netlify.app/) |
 | [Phone Zone](https://github.com/tsahiBarshevsky/phone-zone) | A modern and fully responsive online e-commerce store | ![](https://img.shields.io/github/stars/tsahiBarshevsky/phone-zone.svg) | [Website link](https://phone-zone1.netlify.app/) |
 | [Get a Card](https://github.com/tsahiBarshevsky/get-a-card) | Online business cards generator | ![](https://img.shields.io/github/stars/tsahiBarshevsky/get-a-card.svg) | [Webeite link](https://get-a-card.netlify.app/) |
-| [Save The Date](https://github.com/tsahiBarshevsky/save-the-date) | Online medicines management, calculataing the date a medicine should be thrown | ![](https://img.shields.io/github/stars/tsahiBarshevsky/save-the-date.svg) | [Website link](https://save-the-date45.netlify.app/) |
 | [Portfolio Plus](https://github.com/tsahiBarshevsky/Portfolio-Plus) | Online personal portfolio landing page generator | ![](https://img.shields.io/github/stars/tsahiBarshevsky/Portfolio-Plus.svg) | [Website link](https://portfolio-plus.netlify.app/) |
-| [Scratch a Quote](https://github.com/tsahiBarshevsky/scratch-a-quote) | Random motivation quotes generator | ![](https://img.shields.io/github/stars/tsahiBarshevsky/scratch-a-quote.svg) | [Website link](https://scratch-a-quote.netlify.app/) |
 | [The Man and the Written Word](https://github.com/tsahiBarshevsky/personal-blog) | Personal blog | ![](https://img.shields.io/github/stars/tsahiBarshevsky/personal-blog.svg) | [Website link](https://the-man-and-the-written-word.netlify.app/) |
 | [Path to Success](https://github.com/tsahiBarshevsky/path-to-success) | Website with my summaries and tips from my studies | ![](https://img.shields.io/github/stars/tsahiBarshevsky/path-to-success.svg) | [Website link](https://path-to-success.netlify.app/) |
 | [Search Without Spoilers](https://github.com/tsahiBarshevsky/Search-Without-Spoilers-Bot) | Telegram bot which searching information about shows and movies | ![](https://img.shields.io/github/stars/tsahiBarshevsky/Search-Without-Spoilers-Bot.svg) | [Demo video](https://youtu.be/mO-mX_kYXSk) |
