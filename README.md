@@ -38,7 +38,7 @@
 
 | Project Name | Project Description | Stars | Links |
 | ------------ | ------------------- | ----- | ----- |
-| Save The Date | Medicines management native app with a main feature: Calculating the date it should be thrown | ![](https://img.shields.io/github/stars/tsahiBarshevsky/save-the-date-app.svg) | <ul><li>[Server repository](https://github.com/tsahiBarshevsky/save-the-date-server)</li><li>[Client repository](https://github.com/tsahiBarshevsky/save-the-date-app)</li><li>[APK and IOS simulator files](https://drive.google.com/drive/folders/1mf-KnPfsnroWlUucACkVYsoIdicOMLuZ)</li></ul> |
+| Save The Date | Medicines management native app with a main feature: Calculating the date it should be thrown | | <ul><li>[Server repository](https://github.com/tsahiBarshevsky/save-the-date-server)</li><li>[Client repository](https://github.com/tsahiBarshevsky/save-the-date-app)</li><li>[APK and IOS simulator files](https://drive.google.com/drive/folders/1mf-KnPfsnroWlUucACkVYsoIdicOMLuZ)</li></ul> |
 | [Note To Self](https://github.com/tsahiBarshevsky/note-to-self) | A basic todo app using React Native, as a first practice with React Native | ![](https://img.shields.io/github/stars/tsahiBarshevsky/note-to-self.svg) | 
 | [Jobi](https://github.com/tsahiBarshevsky/jobi) | A job tracker | ![](https://img.shields.io/github/stars/tsahiBarshevsky/jobi.svg) | [Website link](https://jobi.netlify.app/) |
 | [Phone Zone](https://github.com/tsahiBarshevsky/phone-zone) | A modern and fully responsive online e-commerce store | ![](https://img.shields.io/github/stars/tsahiBarshevsky/phone-zone.svg) | [Website link](https://phone-zone1.netlify.app/) |
