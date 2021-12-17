@@ -7,7 +7,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tsahi.barshavsky/)
 
 
-### 👩🏻‍💻 Technologies and Utilities
+### 💻 Technologies and Utilities
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -40,8 +40,10 @@
 
 | Project Name | Project Description | Stars | Links |
 | ------------ | ------------------- | ----- | ----- |
+| My First Bank | Money tracking app for kids | ![](https://img.shields.io/github/stars/tsahiBarshevsky/my-first-bank.svg) | [Repository](https://github.com/tsahiBarshevsky/my-first-bank) |
+| Grades | Tracking courses and calculating GPA app | ![](https://img.shields.io/github/stars/tsahiBarshevsky/grades.svg) | <ul><li>[Repository](https://github.com/tsahiBarshevsky/grades)</li><li>[Download APK file](https://drive.google.com/file/d/1bQhfQWMsD8m3tI9P1yWXVuitFTrC_FtR/view?usp=sharing)</li></ul>  |
 | Save The Date | Medicines management native app with a main feature: Calculating the date it should be thrown | ![](https://img.shields.io/github/stars/tsahiBarshevsky/save-the-date-app.svg) | <ul><li>[Server repository](https://github.com/tsahiBarshevsky/save-the-date-server)</li><li>[Client repository](https://github.com/tsahiBarshevsky/save-the-date-app)</li><li>[APK and IOS simulator files](https://drive.google.com/drive/folders/1mf-KnPfsnroWlUucACkVYsoIdicOMLuZ)</li></ul> |
-| [Note To Self](https://github.com/tsahiBarshevsky/note-to-self) | A basic todo app using React Native, as a first practice with React Native | ![](https://img.shields.io/github/stars/tsahiBarshevsky/note-to-self.svg) | 
+| Note To Self | A basic todo app using React Native, as a first practice with React Native | ![](https://img.shields.io/github/stars/tsahiBarshevsky/note-to-self.svg) | [Repository](https://github.com/tsahiBarshevsky/note-to-self) |
 | [Jobi](https://github.com/tsahiBarshevsky/jobi) | A job tracker | ![](https://img.shields.io/github/stars/tsahiBarshevsky/jobi.svg) | [Website link](https://jobi.netlify.app/) |
 | [Phone Zone](https://github.com/tsahiBarshevsky/phone-zone) | A modern and fully responsive online e-commerce store | ![](https://img.shields.io/github/stars/tsahiBarshevsky/phone-zone.svg) | [Website link](https://phone-zone1.netlify.app/) |
 | [Get a Card](https://github.com/tsahiBarshevsky/get-a-card) | Online business cards generator | ![](https://img.shields.io/github/stars/tsahiBarshevsky/get-a-card.svg) | [Webeite link](https://get-a-card.netlify.app/) |
