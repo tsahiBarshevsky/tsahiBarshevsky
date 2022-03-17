@@ -40,7 +40,7 @@
 
 | Project Name | Project Description | Stars | Links |
 | ------------ | ------------------- | ----- | ----- |
-| Organize & Eat | Recipes book app | ![](https://img.shields.io/github/stars/tsahiBarshevsky/organize-n-eat.svg) | <ul><li>[Repository](https://github.com/tsahiBarshevsky/organize-n-eat)</li><li>[The app in Expo Go](https://expo.dev/@tsahib/organize-n-eat)</li></ul>
+| CookEat | Recipes book app | ![](https://img.shields.io/github/stars/tsahiBarshevsky/cookEat.svg) | <ul><li>[Repository](https://github.com/tsahiBarshevsky/cookEat)</li><li>[The app in Expo Go](https://expo.dev/@tsahib/cookEat)</li></ul>
 | My First Bank | Money tracking app for kids | ![](https://img.shields.io/github/stars/tsahiBarshevsky/my-first-bank.svg) | [Repository](https://github.com/tsahiBarshevsky/my-first-bank) |
 | Grades | Tracking courses and calculating GPA app | ![](https://img.shields.io/github/stars/tsahiBarshevsky/grades.svg) | <ul><li>[Repository](https://github.com/tsahiBarshevsky/grades)</li><li>[Download APK file](https://drive.google.com/file/d/1bQhfQWMsD8m3tI9P1yWXVuitFTrC_FtR/view?usp=sharing)</li></ul>  |
 | Save The Date | Medicines management native app with a main feature: Calculating the date it should be thrown | ![](https://img.shields.io/github/stars/tsahiBarshevsky/save-the-date-app.svg) | <ul><li>[Server repository](https://github.com/tsahiBarshevsky/save-the-date-server)</li><li>[Client repository](https://github.com/tsahiBarshevsky/save-the-date-app)</li><li>[APK and IOS simulator files](https://drive.google.com/drive/folders/1mf-KnPfsnroWlUucACkVYsoIdicOMLuZ)</li></ul> |
