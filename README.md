@@ -40,6 +40,8 @@
 
 | Project Name | Project Description | Stars | Links |
 | ------------ | ------------------- | ----- | ----- |
+| Lights Out | Cinema app | ![](https://img.shields.io/github/stars/tsahiBarshevsky/lights-out.svg) | [Repository](https://github.com/tsahiBarshevsky/lights-out)
+| Legoland | E-commerce app | ![](https://img.shields.io/github/stars/tsahiBarshevsky/legoland.svg) | [Repository](https://github.com/tsahiBarshevsky/legoland)
 | CookEat | Recipes book app | ![](https://img.shields.io/github/stars/tsahiBarshevsky/cookEat.svg) | <ul><li>[Repository](https://github.com/tsahiBarshevsky/cookEat)</li><li>[The app in Expo Go](https://expo.dev/@tsahib/cookEat)</li></ul>
 | My First Bank | Money tracking app for kids | ![](https://img.shields.io/github/stars/tsahiBarshevsky/my-first-bank.svg) | [Repository](https://github.com/tsahiBarshevsky/my-first-bank) |
 | Grades | Tracking courses and calculating GPA app | ![](https://img.shields.io/github/stars/tsahiBarshevsky/grades.svg) | <ul><li>[Repository](https://github.com/tsahiBarshevsky/grades)</li><li>[Download APK file](https://drive.google.com/file/d/1bQhfQWMsD8m3tI9P1yWXVuitFTrC_FtR/view?usp=sharing)</li></ul>  |
