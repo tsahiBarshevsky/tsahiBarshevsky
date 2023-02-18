@@ -36,10 +36,12 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🌟 Top Projects:
+### 🌟 Top Projects: 
 
 | Project Name | Project Description | Stars | Links |
 | ------------ | ------------------- | ----- | ----- |
+| [Job Hunter](https://github.com/tsahiBarshevsky/job-hunter) | An online job tracker | ![](https://img.shields.io/github/stars/tsahiBarshevsky/food-on-the-go.svg) | [Website link](https://job-hunter1.netlify.app/)
+| Food On The Go | Foot trucks interactive map | ![](https://img.shields.io/github/stars/tsahiBarshevsky/food-on-the-go.svg) | [Repository](https://github.com/tsahiBarshevsky/food-on-the-go) |
 | Lights Out | Cinema app | ![](https://img.shields.io/github/stars/tsahiBarshevsky/lights-out.svg) | [Repository](https://github.com/tsahiBarshevsky/lights-out)
 | Legoland | E-commerce app | ![](https://img.shields.io/github/stars/tsahiBarshevsky/legoland.svg) | [Repository](https://github.com/tsahiBarshevsky/legoland)
 | CookEat | Recipes book app | ![](https://img.shields.io/github/stars/tsahiBarshevsky/cookEat.svg) | <ul><li>[Repository](https://github.com/tsahiBarshevsky/cookEat)</li><li>[The app in Expo Go](https://expo.dev/@tsahib/cookEat)</li></ul>
@@ -47,7 +49,7 @@
 | Grades | Tracking courses and calculating GPA app | ![](https://img.shields.io/github/stars/tsahiBarshevsky/grades.svg) | <ul><li>[Repository](https://github.com/tsahiBarshevsky/grades)</li><li>[Download APK file](https://drive.google.com/file/d/1bQhfQWMsD8m3tI9P1yWXVuitFTrC_FtR/view?usp=sharing)</li></ul>  |
 | Save The Date | Medicines management native app with a main feature: Calculating the date it should be thrown | ![](https://img.shields.io/github/stars/tsahiBarshevsky/save-the-date-app.svg) | <ul><li>[Server repository](https://github.com/tsahiBarshevsky/save-the-date-server)</li><li>[Client repository](https://github.com/tsahiBarshevsky/save-the-date-app)</li><li>[APK and IOS simulator files](https://drive.google.com/drive/folders/1mf-KnPfsnroWlUucACkVYsoIdicOMLuZ)</li></ul> |
 | Note To Self | A basic todo app using React Native, as a first practice with React Native | ![](https://img.shields.io/github/stars/tsahiBarshevsky/note-to-self.svg) | [Repository](https://github.com/tsahiBarshevsky/note-to-self) |
-| [Jobi](https://github.com/tsahiBarshevsky/jobi) | A job tracker | ![](https://img.shields.io/github/stars/tsahiBarshevsky/jobi.svg) | [Website link](https://jobi.netlify.app/) |
+| [Jobi](https://github.com/tsahiBarshevsky/jobi) | A job tracker | ![](https://img.shields.io/github/stars/tsahiBarshevsky/jobi.svg) |  |
 | [Phone Zone](https://github.com/tsahiBarshevsky/phone-zone) | A modern and fully responsive online e-commerce store | ![](https://img.shields.io/github/stars/tsahiBarshevsky/phone-zone.svg) | [Website link](https://phone-zone1.netlify.app/) |
 | [Get a Card](https://github.com/tsahiBarshevsky/get-a-card) | Online business cards generator | ![](https://img.shields.io/github/stars/tsahiBarshevsky/get-a-card.svg) | [Webeite link](https://get-a-card.netlify.app/) |
 | [Portfolio Plus](https://github.com/tsahiBarshevsky/Portfolio-Plus) | Online personal portfolio landing page generator | ![](https://img.shields.io/github/stars/tsahiBarshevsky/Portfolio-Plus.svg) | [Website link](https://portfolio-plus.netlify.app/) |
